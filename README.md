@@ -2,7 +2,7 @@
 
 An easy to use docker image to setup replica set via docker-compose.yml.
 
-Available on docker hub https://hub.docker.com/r/heyarny/mongo-replica-set/tags
+Available on docker hub https://hub.docker.com/r/heyarny/mongo-replica-set
 
 ## docker-compose
 
